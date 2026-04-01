@@ -19,8 +19,10 @@
 ## 📸 執行截圖
 
 **1. 正常淺色模式與計算結果**
+
 <img width="800" height="484" alt="image" src="https://github.com/user-attachments/assets/ce734036-60a8-4eb1-aa3a-c59ae6702aac" />
 
 
 **2. 深色模式 (Dark Mode) 介面**
+
 <img width="798" height="476" alt="image" src="https://github.com/user-attachments/assets/776cfa00-0398-468b-99ab-45d43a5d3c15" />

@@ -17,7 +17,6 @@
 4. 在 Visual Studio 中按下 `F5` 或點擊上方「開始」按鈕即可編譯並執行程式。
 
 ## 📸 執行截圖
-*(提示：在 GitHub 網頁編輯此檔案時，直接將截圖圖片拖曳進來，就會自動產生圖片連結替換掉下方文字)*
 
 **1. 正常淺色模式與計算結果**
 <img width="800" height="484" alt="image" src="https://github.com/user-attachments/assets/ce734036-60a8-4eb1-aa3a-c59ae6702aac" />
